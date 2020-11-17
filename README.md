@@ -4,7 +4,7 @@ I'm currently looking for a job as a Front-end Developer.
 Check my website [aostrowicki.com](https://www.aostrowicki.com)
 
 
-## What I know:
+### What I know:
 - JS (ES6+)
 - React
 - Redux
@@ -13,9 +13,9 @@ Check my website [aostrowicki.com](https://www.aostrowicki.com)
 - AJAX/Fetch/Axios
 - GSAP
 
-## What I'm learning:
+### What I'm learning:
 - Canvas
 
-## What I want to learn:
+### What I want to learn:
 - Jest
 - Docker and CI
