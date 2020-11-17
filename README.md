@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there 👋
+## I'm Adam, Frontend Developer and UI Designer
+I'm currently looking for a job as a Front-end Developer. 
+Check my website [aostrowicki.com](https://www.aostrowicki.com)
 
-<!--
-**aostrowicki/aostrowicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## What I know:
+- JS (ES6+)
+- React
+- Redux
+- Redux Thunk
+- Styled Components
+- AJAX/Fetch/Axios
+- GSAP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm learning:
+- Canvas
+
+## What I want to learn:
+- Jest
+- Docker and CI
