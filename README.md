@@ -17,5 +17,6 @@ I'm currently looking for a job as a Front-end Developer.</br>Check out my websi
 
 ### What I want to learn :pray:
 - Jest
-- Docker and CI
+- Docker
+- Jenkins
 - Redux Saga
