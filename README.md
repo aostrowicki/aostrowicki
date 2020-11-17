@@ -19,4 +19,5 @@ Currently looking for a job as a Front-end Developer.</br>Check out my website [
 - Jest
 - Docker
 - Jenkins
+- React Native
 - Redux Saga
