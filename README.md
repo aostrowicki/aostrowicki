@@ -3,7 +3,7 @@
 ### I'm Adam, Frontend Developer and UI Designer
 I'm currently looking for a job as a Front-end Developer.  Check my website [aostrowicki.com](https://www.aostrowicki.com)
 
-### What I know :thumbsup:
+### What I know :muscle:
 - JS (ES6+)
 - React
 - Redux
@@ -12,9 +12,9 @@ I'm currently looking for a job as a Front-end Developer.  Check my website [aos
 - AJAX/Fetch/Axios
 - GSAP
 
-### What I'm learning :pray:
+### What I'm learning :thumbsup:
 - Canvas
 
-### What I want to learn :thumbsdown:
+### What I want to learn :pray:
 - Jest
 - Docker and CI
