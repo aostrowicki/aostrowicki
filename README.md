@@ -18,3 +18,4 @@ I'm currently looking for a job as a Front-end Developer.  Check my website [aos
 ### What I want to learn :pray:
 - Jest
 - Docker and CI
+- Redux Saga
