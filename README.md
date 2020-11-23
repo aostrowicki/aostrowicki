@@ -11,13 +11,13 @@ Currently looking for a job as a Front-end Developer.</br>Check out my website [
 - Styled Components
 - AJAX/Fetch/Axios
 - GSAP
-
-### What I'm learning :thumbsup:
 - Canvas
 
-### What I want to learn :pray:
+### What I'm learning :thumbsup:
 - Jest
+
+### What I want to learn :pray:
 - Docker
 - Jenkins
 - React Native
-- Redux Saga
+- Typescript
