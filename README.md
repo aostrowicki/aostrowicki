@@ -15,9 +15,9 @@ Currently looking for a job as a Front-end Developer.</br>Check out my website [
 
 ### What I'm learning :thumbsup:
 - Jest
+- CircleCI
+- Github Actions
 
 ### What I want to learn :pray:
-- Docker
-- Jenkins
 - React Native
 - Typescript
